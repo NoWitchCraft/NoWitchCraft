@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building and refining the **PaC Engine** — focusing on editor stability, runtime performance, and an intuitive data model for dialogues, choices, and event logic.  <br>I’m also experimenting with **custom file serialization**, **runtime state management**, and **node-based scripting tools** that allow full creative control without external dependencies.<br><br>🌱 I’m currently learning:<br>How to make an engine feel *alive* — not just functional.  <br>That means studying clean architecture, modular design, serialization systems, and expressive API design to ensure everything remains both performant and beautiful under the hood.<br><br>⚡ Fun fact:<br>I started this engine to make a single game — and ended up creating a framework I wish had existed years ago.  <br>I believe in building tools that outlive their first project, because good architecture should tell its own story.<br><br>🧠 Technologies & Concepts I work with:<br>C# · Custom ECS Architecture · Node-Based Editors · Scriptable Data Systems · Event-Driven Logic · Runtime Contexts · Graph Serialization · Data-Driven Storytelling · Scene & Actor Management · Save/Load Pipelines · Modular Tooling Design
+Iam just a Guy, who likes Coding
 
 
 ## 🌐 Socials:
